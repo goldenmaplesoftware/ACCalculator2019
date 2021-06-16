@@ -9,6 +9,6 @@ This is a calculator written in the C language that is supposed to emulate some 
 Originally written in spring of 2019,   this is a pretty basic program that you can do some manual inputs.
 All should run in the terminal shell without much hassle. 
 
-The source code was compiled and tested on Visual Studio 2017;  
+The source code was compiled and tested on Visual Studio 2017 and recompiled and tested in Visual Studio 2019;  
 hence why the scan functions and certain features differtiate.  
 This will NOT work on Codeblocks IDE.
