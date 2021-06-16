@@ -182,7 +182,7 @@ int main() {
 	double degTorad = (PI / 180.0);
 	int input;
 	double totalresistance;
-	printf("*****CIRCUIT ANALYZZER VERSION 2.0:*****\n      SNAKER96/SNAKER&&SONS APRIL 2019 \n");
+	printf("*****AC CALCULATOR VERSION 2.0:*****\n      GOLDEN MAPLE SOFTWARE APRIL 2019 \n");
 	printf("***************SELECTION:***************\n[1] Total Resistance\n [2] Total Capicative Reactance\n [3] Total Inductance \n [4] Total RLC Reactance \n [5] Power Circuit [ST,PT,QT,FP] \n ");
 	scanf_s("%d", &input);
 	switch (input) {
